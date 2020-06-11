@@ -1,1 +1,2 @@
-# Server \n for use on my personal raspberry pi
+# Server
+for use on my personal raspberry pi
